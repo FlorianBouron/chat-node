@@ -10,3 +10,6 @@ and then:
 ```sh
 $ npm start
 ```
+
+## Preview ##
+https://chat-node-florianbouron.herokuapp.com/
